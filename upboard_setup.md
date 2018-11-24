@@ -3,7 +3,7 @@
   * [Intel UP Board](https://click.intel.com/aaeon-up-board.html)
   * [UP Community Wiki](https://wiki.up-community.org/Ubuntu)
   
-# Prepare Bootable USB Drive
+## Prepare Bootable USB Drive
 1. Format USB drive (10 - 15 minutes)
 * Insert USB drive into Laptop/PC
 * Erase & Format USB drive
